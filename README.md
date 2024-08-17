@@ -32,3 +32,15 @@ This project is a RAG (Retrieve and Generate) based PDF reader chatbot using the
    ```bash
    streamlit run streamlit.py 
 
+## Screenshots
+
+Here are some screenshots of the application:
+
+### Home Page
+<img src="Screenshots 2024-08-17 163642.png" alt="Home Page" width="800"/>
+
+### About Project Page
+<img src="Screenshots 2024-08-17 163659.png" alt="About Project Page" width="800"/>
+
+### PDF Query Prediction
+<img src="Screenshots 2024-08-17 163657.png" alt="PDF Query Prediction" width="800"/>
