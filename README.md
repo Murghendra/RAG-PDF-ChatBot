@@ -43,4 +43,4 @@ Here are some screenshots of the application:
 <img src="Screenshot 2024-08-17 163659.png" alt="About Project Page" width="800"/>
 
 ### PDF Query Prediction
-<img src="Screenshots 2024-08-17 163657.png" alt="PDF Query Prediction" width="800"/>
+<img src="Screenshot 2024-08-17 163957.png" alt="PDF Query Prediction" width="800"/>
