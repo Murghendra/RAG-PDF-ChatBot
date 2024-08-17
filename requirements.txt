@@ -2,3 +2,4 @@ streamlit==1.18.1
 PyPDF2==3.0.1
 langchain==0.0.154
 langchain-community==0.0.8
+altair==4.2.2
