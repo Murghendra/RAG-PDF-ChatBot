@@ -21,8 +21,8 @@ This project is a RAG (Retrieve and Generate) based PDF reader chatbot using the
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/rag-pdf-reader-chatbot.git
-   cd rag-pdf-reader-chatbot
+   git clone https://github.com/Murghendra/RAG-PDF-ChatBot.git
+   cd RAG-PDF-ChatBot
    
 2. Install Dependencies:
     ```bash
